@@ -1,4 +1,4 @@
-# cicd_terraform-
+# cicd_gitlab-terraform
 
 Create CI/CD Pipelines for Terraform in GitLab
 
